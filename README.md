@@ -1,12 +1,5 @@
-Bien sûr, voici un rapport de vulnérabilité pour une application de vote en ligne, avec les solutions intégrant JSTL, le modèle DAO, le modèle BIN et la gestion des rôles d'administrateur.
-
----
 
 ### Rapport de Vulnérabilité pour une Application de Vote en Ligne
-
-#### Introduction
-- **Objectif** : Identifier les vulnérabilités potentielles dans une application de vote en ligne et proposer des solutions pour les atténuer.
-- **Portée** : Application de vote basée sur Java EE, utilisant Tomcat comme serveur et MySQL comme base de données.
 
 #### Vulnérabilités Potentielles et Solutions
 
@@ -190,15 +183,4 @@ Bien sûr, voici un rapport de vulnérabilité pour une application de vote en l
    - **Solution** :
      - Désactiver les fonctionnalités non utilisées, appliquer des mises à jour de sécurité et configurer des permissions de fichiers appropriées.
 
-#### Conclusion
-- **Résumé** : En identifiant et en atténuant ces vulnérabilités, nous pouvons renforcer la sécurité de l'application de vote en ligne.
-- **Recommandations** : Mettre en œuvre les solutions proposées, intégrer JSTL, les modèles DAO et BIN, et définir des rôles d'administrateur avec des permissions strictes. Effectuer des audits de sécurité réguliers pour garantir que l'application reste sécurisée contre les menaces émergentes.
 
-#### Annexes
-- **Références** :
-  - OWASP Top Ten Project
-  - Documentation de sécurité pour Java EE, Tomcat, et MySQL
-
----
-
-En suivant ce cadre, vous pourrez produire un rapport complet sur les vulnérabilités potentielles et les mesures d'atténuation pour une application de vote en ligne, tout en intégrant des pratiques de sécurité éprouvées.
